@@ -5,8 +5,6 @@ programmer and marketer(for parents)
     Phone: +375(25)910-26-51
     E-mail: tanya-klin@list.ru
     Telegram: @tanya_mirona
-    [VK:](https://vk.com/tanya__mirona)
-    [Instagram:](https://www.instagram.com/tanya_mirona/)
 
 # A few words about me
 All my life I was very well versed in computers, but I didn’t even think to connect my life with programming. After graduating from high school, I entered the Belarusian Economic University(BSEU), thinking that I should be an accountant. However, after studying for a year, I realized that I still want to become a web developer. 
