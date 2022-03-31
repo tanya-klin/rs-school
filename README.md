@@ -1,1 +1,1 @@
-# rs-school
+https://tanya-klin.github.io/rsschool-cv/cv
