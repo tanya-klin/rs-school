@@ -1,21 +1,21 @@
-# ![person](/icons-cv/woman.png) **Tanya Klinsevich, 21 years**
-programmer and marketer(parents)
+#  Tanya Klinsevich, 21 years
+programmer and marketer(for parents)
 
-### ![contact](/icons-cv/phone-call.png) **Contact information:**
+### Contact information:
     Phone: +375(25)910-26-51
     E-mail: tanya-klin@list.ru
     Telegram: @tanya_mirona
     [VK:](https://vk.com/tanya__mirona)
     [Instagram:](https://www.instagram.com/tanya_mirona/)
 
-# ![information](/icons-cv/information.png) A few words about me
+# A few words about me
 All my life I was very well versed in computers, but I didn’t even think to connect my life with programming. After graduating from high school, I entered the Belarusian Economic University(BSEU), thinking that I should be an accountant. However, after studying for a year, I realized that I still want to become a web developer. 
     
 I completed my first year at BSEU, took the documents and applied to the Belarusian State University of Informatics and Electronics(BSUIR). And my life has changed. I devoted all my free time to programming, later I took courses on developing websites and applications. After completing the courses, I went to work at BSUIR and supported the main website of the university. However, I realized that my knowledge was not enough and began to learn other technologies.
 
 I'm sure my perseverance will help me soon become a real Front-end developer and get a job in your company!
 
-My strengths:
+***My strengths:***
 * I plunge into the matter with my head
 * sociable
 * able to smooth sharp corners
@@ -26,7 +26,7 @@ My strengths:
 
 > Never ever give up!
 
-# ![competence](/icons-cv/competence.png) My skills
+#  My skills
 
 * HTML
 * CSS (Bootstrap, SASS/SCSS, BEM)
@@ -36,7 +36,7 @@ My strengths:
 * Figma/ Adobe Photoshop
 * Gulp 4
 
-# ![coding](/icons-cv/coding.png) Code Examples
+# Code Examples
 
 ```
 function CalculateNormalWeight ( height) {
@@ -47,13 +47,13 @@ function CalculateNormalWeight ( height) {
 }
 ```
 
-# ![Education](/icons-cv/education.png) Education and Courses
+# Education and Courses
 
 * Belarusian State University of Informatics and Electronics (in progress...)
 * [Myfreedom](https://myfreedom.by/courses/dev)
 * [It-academy](https://www.it-academy.by/course/front-end-developer/)
 
-# ![Languages](/icons-cv/language.png) Languages
+# Languages
 
 * English (A2)
-* Belщrusian and Russian (Native)
+* Belarusian and Russian (Native)
